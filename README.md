@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is an event calendar app. In the calendar, we can travel over the next or previous months or years and pick some range dates by clicking over a day(s) and using it to add an event.
+When a range is picked, we can add an event choosing the name. The event will be added to the list. Then we can delete the event, or if clicked, the calendar will highlight the range of dates for the event.
